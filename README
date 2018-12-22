@@ -1,0 +1,7 @@
+
+
+Program to communicate between user space program
+using netlink sockets.
+while communicating between user space program
+we have to mention protocol number as zero.
+
